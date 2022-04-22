@@ -1,10 +1,11 @@
 {
-  "name": "my-app",
+  "name": "hashtags-for-carcoin",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-mentions": "^4.3.1",
     "react-scripts": "3.1.1"
   },
   "scripts": {
